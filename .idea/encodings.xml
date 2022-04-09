@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/addStu.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/student.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dele_save.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/help.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/menu.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/qusort.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stu_add.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stu_change.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stu_clear.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stu_delete.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stu_delete_nam.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stu_delete_num.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stu_read.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stu_save.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stu_search.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stu_search_nam.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stu_search_num.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stu_skim.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stu_sort.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/student.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/swap.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tail_find.c" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

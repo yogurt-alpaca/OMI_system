@@ -1,0 +1,3 @@
+D:/desktop/ClionProject/OMI_student_system/cmake-build-debug/CMakeFiles/OMI_student_system.dir
+D:/desktop/ClionProject/OMI_student_system/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/desktop/ClionProject/OMI_student_system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
